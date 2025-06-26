@@ -23,7 +23,7 @@ In the future I will be adding flexible CLI flags, and extensible features like 
 Download the latest release:
 
 ```bash
-wget https://github.com/releases/fechsta_1.0.0.deb
+wget https://github.com/02scanks/releases/fechsta_1.0.0.deb
 sudo dpkg -i fechsta_1.0.0.deb
 ```
 
