@@ -211,3 +211,4 @@
 /home/ethanscott/Documents/Repots/LinuxDownloadManager/bin/Release/net8.0/linux-x64/zh-Hans/System.CommandLine.resources.dll
 /home/ethanscott/Documents/Repots/LinuxDownloadManager/bin/Release/net8.0/linux-x64/zh-Hant/System.CommandLine.resources.dll
 /home/ethanscott/Documents/Repots/LinuxDownloadManager/obj/Release/net8.0/linux-x64/LinuxDownloadManager.csproj.AssemblyReference.cache
+/home/ethanscott/Documents/Repots/LinuxDownloadManager/obj/Release/net8.0/linux-x64/LinuxDownloadManager.sourcelink.json
