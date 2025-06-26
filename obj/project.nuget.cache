@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "a6hqKRSX8vk=",
+  "success": true,
+  "projectFilePath": "/home/ethanscott/Documents/Repots/LinuxDownloadManager/LinuxDownloadManager.csproj",
+  "expectedPackageFiles": [
+    "/home/ethanscott/.nuget/packages/microsoft.net.illink.tasks/8.0.17/microsoft.net.illink.tasks.8.0.17.nupkg.sha512",
+    "/home/ethanscott/.nuget/packages/system.commandline/2.0.0-beta5.25306.1/system.commandline.2.0.0-beta5.25306.1.nupkg.sha512",
+    "/home/ethanscott/.nuget/packages/system.commandline.namingconventionbinder/2.0.0-beta5.25306.1/system.commandline.namingconventionbinder.2.0.0-beta5.25306.1.nupkg.sha512",
+    "/home/ethanscott/.nuget/packages/microsoft.netcore.app.runtime.linux-x64/8.0.17/microsoft.netcore.app.runtime.linux-x64.8.0.17.nupkg.sha512",
+    "/home/ethanscott/.nuget/packages/microsoft.aspnetcore.app.runtime.linux-x64/8.0.17/microsoft.aspnetcore.app.runtime.linux-x64.8.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

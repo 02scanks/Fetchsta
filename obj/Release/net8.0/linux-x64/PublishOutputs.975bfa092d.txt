@@ -1,0 +1,2 @@
+/home/ethanscott/Documents/Repots/LinuxDownloadManager/publish/LinuxDownloadManager.pdb
+/home/ethanscott/Documents/Repots/LinuxDownloadManager/publish/LinuxDownloadManager

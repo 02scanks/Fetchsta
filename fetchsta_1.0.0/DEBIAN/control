@@ -1,0 +1,7 @@
+Package: fetchsta
+Version: 1.0.0
+Section: utils
+Priority: optional
+Architecture: amd64
+Maintainer: Scanks scanks420@gmail.com
+Description: Terminal-based download manager written in C#
